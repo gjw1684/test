@@ -1,1 +1,3 @@
-# catechism
+# Introduction
+
+In a desire to transmit the sound doctrine in accordance with the 1689 London Baptist Confession of Faith (the confession most commonly used by confessional Reformed baptists), a community of Reformed Baptists have compiled the truths of our confession into exhaustive catechetical form, similar to the Westminster Larger Catechism. The result of such study has resulted in a Particular Baptist version of the Westminster Larger Catechism, which is called A Baptist Larger Catechism. Our hope is that this resource will be helpful for those who desire to pass down their tradition to future generations and to teach fellow believers an exhaustive summary of Christian doctrine.
